@@ -16,7 +16,7 @@ public class ApiRetrofit {
     private Retrofit retrofit;
     private IRequest iRequest;
     private static final int DEFAULT_TIMEOUT = 30;
-    public static String mBaseUrl = "";
+    public static String mBaseUrl = "www.baidu.com";
 
     public ApiRetrofit() {
         HttpLoggingInterceptor logging = new HttpLoggingInterceptor();
