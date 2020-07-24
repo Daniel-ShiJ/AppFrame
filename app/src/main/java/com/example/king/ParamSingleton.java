@@ -8,10 +8,12 @@ import java.util.HashMap;
  */
 public class ParamSingleton {
     private ParamSingleton(){
+
+
     }
 
     public static HashMap<String,Object> getInstance(){
-        ParamSingletonHolder.publicMap.put("token", "cbcfeed666aeddec9c2f0d40f97e1297");
+        ParamSingletonHolder.publicMap.put("token", "");
         ParamSingletonHolder.publicMap.put("version", "1.0");
         ParamSingletonHolder.publicMap.put("format", "json");
         return ParamSingletonHolder.publicMap;
