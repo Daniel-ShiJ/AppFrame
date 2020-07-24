@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestJava.iml" filepath="$PROJECT_DIR$/TestJava.iml" group="TestJava" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="TestJava/app" />
+      <module fileurl="file://$PROJECT_DIR$/mylib/mylib.iml" filepath="$PROJECT_DIR$/mylib/mylib.iml" group="TestJava/mylib" />
+      <module fileurl="file://$PROJECT_DIR$/testcase/testcase.iml" filepath="$PROJECT_DIR$/testcase/testcase.iml" group="TestJava/testcase" />
+    </modules>
+  </component>
+</project>
